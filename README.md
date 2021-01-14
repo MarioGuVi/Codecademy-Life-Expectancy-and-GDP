@@ -1,2 +1,2 @@
 # Codecademy-Life-Expectancy-and-GDP
-Codecademy Portfolio
+Portfolio project
